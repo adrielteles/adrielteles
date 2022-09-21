@@ -1,5 +1,5 @@
 
-name: Generate Datas
+name: Generate Data Snake
 
 on:
   schedule: # execute every 12 hours
